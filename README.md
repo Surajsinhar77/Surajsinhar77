@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA (TREE -> BST) and FullStack JavaScript(MERN)
 - 💞️ I’m looking to collaborate on Project Devloplent in WebD
 - 📫 How to reach me 
-      Linkden ID ➡️ https://www.linkedin.com/in/suraj-kumar-1a525a1a7/
+      Linkden ID ➡️ https://www.linkedin.com/in/kumar-suraj-sk/
 
 <!---
 --->
