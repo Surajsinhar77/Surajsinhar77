@@ -89,13 +89,13 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Surajsinhar77&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Surajsinhar77&layout=compact&hide=TSQL&theme=chartreuse-dark" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Surajsinhar77&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Surajsinhar77&layout=compact&hide=TSQL&theme=chartreuse-dark"/> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Surajsinhar77&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Surajsinhar77&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -104,7 +104,7 @@
 <div align="center">
     
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=surajsinhar77&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=surajsinhar77&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
 
 
 ### 😂 Random Dev Meme
