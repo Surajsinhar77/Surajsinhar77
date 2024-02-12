@@ -15,7 +15,7 @@
 - 🏦 I'm currently working on my skill to make them more sharper 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
       
-- 🤔 I use daily ```.js```,``` .jsx```, ```.cpp```, ```.py```.ts```,``` .tsx```,
+- 🤔 I use daily ```.js```,``` .jsx```, ```.cpp```, ```.py```,```.ts```,``` .tsx```,
 
 - 🌱 I’m currently WebRTC and Socket.io
 
