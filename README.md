@@ -3,7 +3,7 @@
 <h3 align="center">Freelancer in MERN Stack and Next.js | Exploring the Boundless World of Technology</h3>
 <div align="center"> 
   
-[![](https://visitcount.itsvg.in/api?id=surajsinhar77&icon=3&color=0)](https://visitcount.itsvg.in) 
+[![](https://visitcount.itsvg.in/api?id=Surajsinhar77&icon=3&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -108,7 +108,8 @@
 <div align="center">
     
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=surajsinhar77&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
+[![](https://visitcount.itsvg.in/api?id=Surajsinhar77&icon=3&color=0)](https://visitcount.itsvg.in)
+
 
 
 ### 😂 Random Dev Meme
