@@ -8,10 +8,11 @@
 </div>
 
 ### 🤵 About Me:
-<table align="center">
+<!-- <table align="center">
 <tr border="none">
-<td width="50%" align="left">
-  
+<td width="50%" align="left"> -->
+<div >
+<div>
 - 🏦 I'm currently working on my skill to make them more sharper 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
       
@@ -28,15 +29,17 @@
 - 👯 We can connect on [Linkedin]((https://www.linkedin.com/in/kumar-suraj-sk/)) to discuss anything related to development
 
 - ⚡ Fun fact: Je connais un peu le français
-</td>
-<td width="50%" align="center">
-
+</div>
+<!-- </td> -->
+<!-- <td width="50%" align="center"> -->
+<div>
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
-  
-  </td>
-</tr>
-</table>
+</div>
+</div>
+  <!-- </td> -->
+<!-- </tr> -->
+<!-- </table> -->
 
 ### :link: &nbsp;Connect with me
 
@@ -117,5 +120,5 @@
 
 [![](https://visitcount.itsvg.in/api?id=Surajsinhar77&icon=3&color=0)](https://visitcount.itsvg.in)
 </div>
-
+<script src="https://cdn.tailwindcss.com"></script>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
