@@ -108,7 +108,7 @@
 </tr>
 </table>
 
-<div align="center">
+<div align="center" class="grid grid-cols-1 lg:grid-cols-2">
     
 ### 🔝 Top Contributed Repo
 
